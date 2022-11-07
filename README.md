@@ -1,18 +1,11 @@
-## Getting Started
+## Name
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Metric Converter
 
-## Folder Structure
+## Description
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+To use the User Interface simply choose your type of metric at the top drop down menu.
+Next select the corresponding units to convert from and to.
+Following unit selection enter the from value to compute to the desired units.
+Whether the user enters values in the right or left fields boxes the values will update and populate.
+The user can also choose to select a different unit and the values will automatically update and populate.
